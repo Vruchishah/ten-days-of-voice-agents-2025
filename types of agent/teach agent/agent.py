@@ -72,7 +72,7 @@ COURSE_CONTENT = [
 
 VOICE_MAP = {
     "learn": {"id": "en-US-matthew", "name": "Matthew"},
-    "quiz": {"id": "en-US-alicia", "name": "Alicia"},
+    "quiz": {"id": "en-IN-Anisha", "name": "Anisha"},
     "teach_back": {"id": "en-US-ken", "name": "Ken"},
 }
 
@@ -220,4 +220,5 @@ async def entrypoint(ctx: JobContext):
 
 
 if __name__ == "__main__":
+
     cli.run_app(WorkerOptions(entrypoint_fnc=entrypoint, prewarm_fnc=prewarm))
