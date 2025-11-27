@@ -1,1 +1,2 @@
-{"case_id": "FRD-7070", "customer_name": "Shinobu Kocho", "security_identifier": "ID-7070S", "transaction_amount": "150.00", "merchant_name": "Wisteria Pharmaceuticals", "location": "Kyoto, Japan", "timestamp": "Nov 26, 2025, 1:00 PM JST", "final_status": "confirmed_safe", "outcome_note": "Customer confirmed transaction as legitimate."}
+{"case_id": "FRD-7070", "customer_name": "Shinobu Kocho", "security_identifier": "ID-7070S", "transaction_amount": "150.00", "merchant_name": "Wisteria Pharmaceuticals", "location": "Kyoto, Japan", "timestamp": "Nov 26, 2025, 1:00 PM JST", "final_status": "confirmed_safe", "outcome_note": "Customer confirmed transaction as legitimate"}
+
