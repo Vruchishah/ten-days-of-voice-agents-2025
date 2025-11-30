@@ -1,4 +1,4 @@
-# 🛒 Day 9: E-commerce Voice Agent - Diablo
+# 🛒 Day 9: E-commerce Voice Agent
 
 ## Project Overview
 This project successfully implements a **Voice-Driven Shopping Assistant**, named **Diablo**, for Day 9 of the Murf AI Voice Agent Challenge. The agent is built following a structured architecture inspired by the **Agentic Commerce Protocol (ACP)** principles, separating the conversational AI from the core commerce logic (catalog and orders).
